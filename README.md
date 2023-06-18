@@ -1,3 +1,3 @@
 GIT BASH
 
-THIS FOLDER GIT BASH
+This is git bash exercise
